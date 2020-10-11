@@ -1,0 +1,16 @@
+ .container {
+ 	background-color: yellow;
+ 	display: flex;
+ 	flex-direction: row;
+ 	flex-wrap: wrap;
+  justify-content: center;
+    align-items: center;
+ 	min-height: 500px;C:\Users\Dosky\Desktop\Initial codding\flexbox.css
+ }
+
+ .container  div {
+    height:  150px;
+    width: 150px;
+    background-color: grey;
+    margin: 5px;
+ }
